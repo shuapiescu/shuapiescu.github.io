@@ -1,4 +1,8 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: grey;
+  color: black;
 }
+a {text-decoration: none; border-radius: 7px; display: block; border-width: 2px; border-color: #9a0df8; border-style: dashed; padding: 10px; margin: 10px; text-align: center; color: black; background-color: #a78fff;}
+a:hover {background-color: #9a0df8; color: white; }
